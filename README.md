@@ -12,7 +12,7 @@
 
 ![VS Code](https://img.shields.io/static/v1?label=&message=VSCode&color=151719&logo=VisualStudioCode)
 
-![Theme](https://img.shields.io/static/v1?label=&message=TokyoNight&color=151719&logo=VisualStudioCode)
+![Theme](https://img.shields.io/static/v1?label=&message=GruvboxMediumDark&color=151719&logo=VisualStudioCode)
 
 # Github Stats
 
